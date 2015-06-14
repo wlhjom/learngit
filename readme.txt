@@ -1,13 +1,1 @@
 readme file_eeror_1
-
-this is a test word!
-
-dev22222222222222222222222222222222222
-dev
-111111111111111111111111111111
-1111111111
-1111
-2
-this is dev
-
-this is dev_hahahah
